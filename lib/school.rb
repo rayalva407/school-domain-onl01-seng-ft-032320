@@ -24,4 +24,4 @@ class School
       student_array.sort
     end
   end
-  end
+end
